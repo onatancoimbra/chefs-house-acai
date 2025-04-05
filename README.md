@@ -1,12 +1,21 @@
-# React + Vite
+# 🍨 Chefs House Açaí
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação React para montar pedidos personalizados de açaí com seleção de tamanho, frutas e adicionais. Ao finalizar, o pedido é enviado direto para o WhatsApp do vendedor.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Seleção de tamanho do copo (330ml, 550ml, 770ml)
+- Escolha de até 2 frutas
+- Escolha de até 2 adicionais
+- Cálculo automático do valor total
+- Geração de link direto para WhatsApp com o pedido formatado
 
-## Expanding the ESLint configuration
+## 🧪 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Bootstrap](https://getbootstrap.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- Deploy via [GitHub Pages](https://pages.github.com/)
+
+
